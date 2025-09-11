@@ -43,11 +43,7 @@
   },
   "extensions": {
     "website": "https://lifenetworks.app",
-    "twitter": "https://twitter.com/life",
-    "discord": "https://discord.gg/life",
-    "telegram": "https://t.me/life",
     "github": "https://github.com/LIFENetworks",
-    "coingecko": ""
   },
   "tags": [
     "defi",

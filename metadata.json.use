@@ -1,0 +1,62 @@
+{
+  "name": "Life",
+  "symbol": "Life",
+  "description": "",
+  "external_url": "https://life",
+  "attributes": [
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Extensions",
+      "value": "Metadata, Close Authority, Freeze"
+    },
+    {
+      "trait_type": "Category",
+      "value": "DeFi"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/LIFENetworks/token/blob/c95361c6cbe95cd648c4ab88caaf81f30667f78a/LIFE%20Coin_BK.png",
+        "type": "image/png",
+        "cdn_uri": "https://github.com/LIFENetworks/token/blob/c95361c6cbe95cd648c4ab88caaf81f30667f78a/LIFE%20Coin_BK.png"
+      }
+    ],
+    "category": "currency",
+    "creators": [
+      {
+        "address": "AUTFUXnVWmvbuahr6JazdAJtm36Xc65Yuf1Zc2DXJBof",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://lifenetworks.app",
+    "twitter": "https://twitter.com/life",
+    "discord": "https://discord.gg/life",
+    "telegram": "https://t.me/life",
+    "github": "https://github.com/LIFENetworks",
+    "coingecko": ""
+  },
+  "tags": [
+    "defi",
+    "token-2022",
+    "solana",
+    "utility-token",
+    "governance"
+  ],
+  "mint": "LiFem4cbDpXd3vEqmfwpjd9mD7q9yTzosbGF3AC1GzV",
+  "authority": "AUTFUXnVWmvbuahr6JazdAJtm36Xc65Yuf1Zc2DXJBof",
+  "image": "https://github.com/LIFENetworks/token/blob/c95361c6cbe95cd648c4ab88caaf81f30667f78a/LIFE%20Coin_BK.png",
+}

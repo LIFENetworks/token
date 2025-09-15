@@ -1,9 +1,9 @@
 {
-  "name": "Life",
+  "name": "LIFE Networks",
   "symbol": "LIFE",
-  "description": "Life Network utility and governance token on Solana.",
+  "description": "LIFE Networks utility and governance token on Solana.",
   "image": "https://raw.githubusercontent.com/LIFENetworks/token/main/LIFE%20Coin_BK.png",
-  "external_url": "https://lifenetworks.app",
+  "external_url": "https://lifenetworks.io",
   "attributes": [
     {
       "trait_type": "Token Standard",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "DeFi"
+      "value": "DeSci"
     }
   ],
   "properties": {
